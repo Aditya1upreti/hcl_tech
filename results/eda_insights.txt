@@ -1,0 +1,12 @@
+# EDA Insights
+
+1. 1. Document type analysis: TXT documents achieve the highest average retrieval score (0.752), while PDF documents have the lowest (0.740). This suggests varying effectiveness of chunking/embedding across document formats.
+
+2. 2. Query type analysis: analytical queries achieve the highest median answer quality (0.84), while summarization queries have the lowest (0.79). Query type significantly impacts answer quality.
+
+3. 3. Document length analysis: Average document length is 268.8 words (median: 256.5 words). Shorter documents may be easier to retrieve accurately, while very long documents may require better chunking strategies.
+
+4. 4. Retrieval-quality correlation: There is a negative correlation (r = -0.005, p = 0.9197) between retrieval scores and answer quality scores. Higher retrieval scores are associated with lower answer quality, suggesting the need for improved ranking or re-ranking strategies.
+
+5. 5. Query type distribution: The dataset contains 500 questions across 5 query types. Most common: summarization (118 questions), least common: analytical (90 questions).
+

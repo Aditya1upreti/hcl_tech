@@ -1,0 +1,7 @@
+doc_id,object/numeric,DOC002,DOC034,DOC013,No,"unique document identifier (e.g., DOC001, DOC002). Used to track which policy document a row belongs to."
+doc_type,object/numeric,TXT,TXT,HTML,No,"the format/category of the document. Common values include TXT, PDF, DOCX, HTML, Word, Markdown. Determines how the document is loaded during ingestion."
+chunk_id,object/numeric,CHK00001,CHK00002,CHK00003,No,unique identifier for a text chunk within a document. Format: {filename}_page{N}_chunk{M}. Used for tracking source provenance in the RAG pipeline.
+word_count,object/numeric,457,302,52,No,the number of words in a document chunk. Used for analyzing document length vs. retrieval/answer quality relationships.
+retrieval_score,object/numeric,0.5962,0.7397,0.7735,No,"a numerical score indicating how relevant a retrieved chunk is to a query, typically based on vector similarity (cosine distance). Higher scores indicate better relevance."
+query_type,object/numeric,analytical,factual,comparative,No,"the category of question being asked. Common types include factual, analytical, comparative, procedural, and summarization. Affects expected answer format and quality."
+answer_quality_score,object/numeric,0.942,0.976,0.66,No,"a numerical score (0-1 or 0-100) indicating the quality of the answer, typically based on human review or automated metrics like faithfulness, completeness, and correctness."

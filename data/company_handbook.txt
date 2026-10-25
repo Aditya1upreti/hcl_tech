@@ -1,0 +1,45 @@
+COMPANY HANDBOOK
+HCLTech Career Shaper Programme
+
+Welcome to the HCLTech Career Shaper Programme! This handbook provides an overview of the programme structure, resources, and support available to all participants.
+
+PROGRAMME STRUCTURE
+The Career Shaper Programme is a comprehensive 6-month training and development programme designed to equip participants with practical skills in technology and professional practice. The programme combines theoretical learning, hands-on projects, and industry exposure.
+
+PROGRAMME DURATION
+- Total Duration: 6 months
+- Phase 1: Foundation (Month 1-2): Core concepts, foundational skills, and assessment
+- Phase 2: Specialization (Month 3-4): Track-specific skills and industry projects
+- Phase 3: Capstone (Month 5-6): Final project presentation and career support
+
+PROGRAMME TRACKS
+- Software Development
+- Data Science and Analytics
+- Cloud and Infrastructure
+- Cybersecurity
+- Full Stack Development
+
+KEY DATES
+- Orientation: First Monday of each cohort cycle
+- Mid-term Review: End of Month 3
+- Capstone Project Submission: Last week of Month 5
+- Graduation: Last day of Month 6
+
+SUPPORT RESOURCES
+- Programme Coordinators: Available for academic and administrative support
+- Learning Management System: Access to course materials, assignments, and grades
+- Career Services: Resume building, interview preparation, and job placement assistance
+- Student Support: Personal and academic counselling services
+
+CODE OF CONDUCT
+All participants are expected to adhere to the Code of Conduct, which outlines the standards of behaviour expected during the programme. A separate Code of Conduct document is provided.
+
+POLICY ACCESS
+All programme policies (Security, Privacy, Leave, Expense, WFH, etc.) are available on the participant portal or upon request from the programme office.
+
+CONTACT INFORMATION
+- Programme Office: +91-XX-XXXXXXXX
+- Email: career.shaper@hcltech.com
+- Emergency After-Hours: +91-XX-XXXX-YYYY
+
+We look forward to a successful journey together!

@@ -1,0 +1,42 @@
+HCLTech Career Shaper Programme
+1. PURPOSE
+This code of conduct establishes the expected standards of behaviour for all participants. It aims to foster a respectful, inclusive, and productive learning environment.
+2. RESPECT AND INCLUSION
+- All participants must treat each other with respect and dignity
+- Discrimination, harassment, or bullying of any kind will not be tolerated
+- Participants must respect diversity in all its forms (cultural, ethnic, gender, religious, ability, etc.)
+- Inclusive language must be used in all communications
+3. PROFESSIONALISM
+- Participants must maintain professional conduct at all times
+- Punctuality is expected for all scheduled sessions and meetings
+- Deadlines must be met and commitments honoured
+4. CONFIDENTIALITY
+- All programme materials, assessments, and participant information must be kept confidential
+- Unauthorized disclosure of confidential information is prohibited
+- Participants must sign the non-disclosure agreement provided
+5. INTELLECTUAL PROPERTY
+- All intellectual property created during the programme remains the property of HCLTech
+- Participants must not claim ownership of programme materials or facilitator content
+- Open source contributions must acknowledge the programme as the source
+6. TECHNOLOGY USE
+- Programme systems and resources must be used for programme-related purposes only
+- Unauthorized downloading, installation, or use of software is prohibited
+- Personal use of programme resources must be reasonable and not interfere with programme activities
+7. ACADEMIC INTEGRITY
+- All assessments must be completed honestly and independently unless collaboration is explicitly permitted
+- Plagiarism in any form will not be tolerated
+- Cheating on examinations or assignments will result in disciplinary action
+- Participants must acknowledge all sources and references properly
+8. REPORTING VIOLATIONS
+- Participants must report any observed violations of this code through the established channel
+- Retaliation against anyone reporting a violation is prohibited
+- Reports will be investigated promptly and confidentially
+9. CONSEQUENCES OF VIOLATIONS
+- Minor violations may result in a warning or counselling
+- Serious violations may result in suspension or removal from the programme
+- Severe violations (e.g., harassment, fraud) may result in immediate dismissal
+10. REVIEW AND AMENDMENTS
+- This code of conduct will be reviewed annually
+- All participants will acknowledge receipt annually
+- Proposed amendments should be submitted to the programme coordinator
+ACKNOWLEDGEMENT: All participants must sign the code of conduct acknowledgement form.

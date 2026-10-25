@@ -1,0 +1,28 @@
+# Environment files - never commit real API keys
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.venv/
+env/
+*.egg-info/
+dist/
+build/
+chroma_db/  # ChromaDB persistent storage
+
+# Streamlit
+.st-repl/
+
+# Jupyter
+*.ipynb
+
+# OS
+.DS_Store.env
+chroma_db/
+__pycache__/
+.venv/

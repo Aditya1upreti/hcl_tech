@@ -1,0 +1,18 @@
+question_number,question,scope,expected_source,hit,accuracy,response_time,provider
+1,What is the penalty for unauthorized access to company systems according to the IT security policy?,in-scope,it_security_policy.pdf,False,N/A,0.0,gemini
+2,What are the rules for taking approved leave according to the leave policy?,in-scope,leave_policy.docx,True,N/A,0.0,gemini
+3,What is the process for submitting business expenses according to the expense policy?,in-scope,expense_policy.docx,True,N/A,0.0,gemini
+4,What are the working from home eligibility criteria according to the WFH policy?,in-scope,wfh_policy.pdf,True,N/A,0.0,gemini
+5,What does the data privacy policy say about handling personal customer information?,in-scope,data_privacy_policy.pdf,False,N/A,0.0,gemini
+6,What are the code of conduct expectations for employee behavior in the workplace?,in-scope,code_of_conduct.txt,False,N/A,0.0,gemini
+7,What does the company handbook say about employee conduct during working hours?,in-scope,company_handbook.txt,False,N/A,0.0,gemini
+8,What is the procedure for reporting a security incident according to the IT security policy?,in-scope,it_security_policy.pdf,True,N/A,0.0,gemini
+9,How many WFH days are permitted per month for eligible employees?,in-scope,wfh_policy.pdf,False,N/A,0.0,gemini
+10,What are the accepted methods for expense reimbursement according to the expense policy?,in-scope,expense_policy.docx,True,N/A,0.0,gemini
+11,What does the leave policy say about carry-forward of unused leave days?,in-scope,leave_policy.docx,False,N/A,0.0,gemini
+12,What are the consequences of violating the data privacy policy according to the policy document?,in-scope,data_privacy_policy.pdf,True,N/A,0.0,gemini
+13,What does the code of conduct say about conflicts of interest?,in-scope,code_of_conduct.txt,False,N/A,0.0,gemini
+14,What are the rules for taking casual leave according to the leave policy?,in-scope,leave_policy.docx,True,N/A,0.0,gemini
+15,What is the capital city of France?,out-of-scope,,False,N/A,0.0,gemini
+16,How do I bake a chocolate cake?,out-of-scope,,False,N/A,0.0,gemini
+17,What was the score in yesterday's football match?,out-of-scope,,False,N/A,0.0,gemini

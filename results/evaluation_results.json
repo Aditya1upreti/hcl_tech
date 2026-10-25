@@ -1,0 +1,181 @@
+{
+  "total_questions": 17,
+  "hit_rate": 0.412,
+  "hit_count": 7,
+  "average_response_time": 0.0,
+  "overall_accuracy": "N/A (no LLM)",
+  "llm_available": false,
+  "provider": "gemini",
+  "per_question_results": [
+    {
+      "question_number": 1,
+      "question": "What is the penalty for unauthorized access to company systems according to the IT security policy?",
+      "scope": "in-scope",
+      "expected_source": "it_security_policy.pdf",
+      "hit": false,
+      "accuracy": "N/A",
+      "response_time": 0.0,
+      "provider": "gemini"
+    },
+    {
+      "question_number": 2,
+      "question": "What are the rules for taking approved leave according to the leave policy?",
+      "scope": "in-scope",
+      "expected_source": "leave_policy.docx",
+      "hit": true,
+      "accuracy": "N/A",
+      "response_time": 0.0,
+      "provider": "gemini"
+    },
+    {
+      "question_number": 3,
+      "question": "What is the process for submitting business expenses according to the expense policy?",
+      "scope": "in-scope",
+      "expected_source": "expense_policy.docx",
+      "hit": true,
+      "accuracy": "N/A",
+      "response_time": 0.0,
+      "provider": "gemini"
+    },
+    {
+      "question_number": 4,
+      "question": "What are the working from home eligibility criteria according to the WFH policy?",
+      "scope": "in-scope",
+      "expected_source": "wfh_policy.pdf",
+      "hit": true,
+      "accuracy": "N/A",
+      "response_time": 0.0,
+      "provider": "gemini"
+    },
+    {
+      "question_number": 5,
+      "question": "What does the data privacy policy say about handling personal customer information?",
+      "scope": "in-scope",
+      "expected_source": "data_privacy_policy.pdf",
+      "hit": false,
+      "accuracy": "N/A",
+      "response_time": 0.0,
+      "provider": "gemini"
+    },
+    {
+      "question_number": 6,
+      "question": "What are the code of conduct expectations for employee behavior in the workplace?",
+      "scope": "in-scope",
+      "expected_source": "code_of_conduct.txt",
+      "hit": false,
+      "accuracy": "N/A",
+      "response_time": 0.0,
+      "provider": "gemini"
+    },
+    {
+      "question_number": 7,
+      "question": "What does the company handbook say about employee conduct during working hours?",
+      "scope": "in-scope",
+      "expected_source": "company_handbook.txt",
+      "hit": false,
+      "accuracy": "N/A",
+      "response_time": 0.0,
+      "provider": "gemini"
+    },
+    {
+      "question_number": 8,
+      "question": "What is the procedure for reporting a security incident according to the IT security policy?",
+      "scope": "in-scope",
+      "expected_source": "it_security_policy.pdf",
+      "hit": true,
+      "accuracy": "N/A",
+      "response_time": 0.0,
+      "provider": "gemini"
+    },
+    {
+      "question_number": 9,
+      "question": "How many WFH days are permitted per month for eligible employees?",
+      "scope": "in-scope",
+      "expected_source": "wfh_policy.pdf",
+      "hit": false,
+      "accuracy": "N/A",
+      "response_time": 0.0,
+      "provider": "gemini"
+    },
+    {
+      "question_number": 10,
+      "question": "What are the accepted methods for expense reimbursement according to the expense policy?",
+      "scope": "in-scope",
+      "expected_source": "expense_policy.docx",
+      "hit": true,
+      "accuracy": "N/A",
+      "response_time": 0.0,
+      "provider": "gemini"
+    },
+    {
+      "question_number": 11,
+      "question": "What does the leave policy say about carry-forward of unused leave days?",
+      "scope": "in-scope",
+      "expected_source": "leave_policy.docx",
+      "hit": false,
+      "accuracy": "N/A",
+      "response_time": 0.0,
+      "provider": "gemini"
+    },
+    {
+      "question_number": 12,
+      "question": "What are the consequences of violating the data privacy policy according to the policy document?",
+      "scope": "in-scope",
+      "expected_source": "data_privacy_policy.pdf",
+      "hit": true,
+      "accuracy": "N/A",
+      "response_time": 0.0,
+      "provider": "gemini"
+    },
+    {
+      "question_number": 13,
+      "question": "What does the code of conduct say about conflicts of interest?",
+      "scope": "in-scope",
+      "expected_source": "code_of_conduct.txt",
+      "hit": false,
+      "accuracy": "N/A",
+      "response_time": 0.0,
+      "provider": "gemini"
+    },
+    {
+      "question_number": 14,
+      "question": "What are the rules for taking casual leave according to the leave policy?",
+      "scope": "in-scope",
+      "expected_source": "leave_policy.docx",
+      "hit": true,
+      "accuracy": "N/A",
+      "response_time": 0.0,
+      "provider": "gemini"
+    },
+    {
+      "question_number": 15,
+      "question": "What is the capital city of France?",
+      "scope": "out-of-scope",
+      "expected_source": null,
+      "hit": false,
+      "accuracy": "N/A",
+      "response_time": 0.0,
+      "provider": "gemini"
+    },
+    {
+      "question_number": 16,
+      "question": "How do I bake a chocolate cake?",
+      "scope": "out-of-scope",
+      "expected_source": null,
+      "hit": false,
+      "accuracy": "N/A",
+      "response_time": 0.0,
+      "provider": "gemini"
+    },
+    {
+      "question_number": 17,
+      "question": "What was the score in yesterday's football match?",
+      "scope": "out-of-scope",
+      "expected_source": null,
+      "hit": false,
+      "accuracy": "N/A",
+      "response_time": 0.0,
+      "provider": "gemini"
+    }
+  ]
+}
